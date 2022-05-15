@@ -2,6 +2,9 @@
 KMK implementation of ardux. A fork of artsey.io
 https://github.com/KMKfw/kmk_firmware
 
+![rp2040 Paintbrush](./images/rp2040_paintbrush_left.jpg)  
+  
+
 ## Current Issues
 * OneShot keys seem to stick rather than disabling after timeout or a keypress. 
 * Mouse Functionality
